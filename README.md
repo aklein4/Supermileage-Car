@@ -10,3 +10,5 @@ Sample Images folder contains .jpg images to preview the designs.
 See README files within folders for specific file formatting and information.
 
 Created by Adam Klein and Justin Johnson.
+
+![alt text](https://github.com/aklein4/Supermileage-Car/blob/main/Sample%20Images/Car%20Assembly%20Advanced.jpg)
