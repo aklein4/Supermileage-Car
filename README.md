@@ -9,7 +9,7 @@ Sample Images folder contains .jpg images to preview the designs.
 
 See README files within folders for specific file formatting and information.
 
-Created by Adam Klein and Justin Johnson.
+Designed by Adam Klein and Justin Johnson.
 
 
 Car Assembly:
